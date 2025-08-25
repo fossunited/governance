@@ -54,7 +54,7 @@ situation.
 * The GB will be composed of 5 members.
 * Each member will be elected to a two-year term.
 * There will be an annual election to determine the composition of the GB for the following year.
-  Two seats will be up for election every year.
+  At least two seats will be up for election every year.
 * Employees from the same company or related companies* should not hold more than 1 GB seat.
 
 Additional clauses:
