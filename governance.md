@@ -1,5 +1,46 @@
 # FOSS United Governing Board Charter [Early Draft]
 
+## Preamble
+
+The FOSS United Foundation was established in 2020, after the IndiaOS conference. It was founded
+with a mission of supporting and promoting the Indian Free & Open Source Software ecosystem. Several
+existing organizations already pursue similar work, like the [Free Software Movement of India](https://fsmi.in/)
+and their member organizations, the [Free Software Community of India](https://fsci.in/), the
+[Free Software Foundation of India](https://fsf.org.in/), [Swatantra Malayalam Computing](https://smc.org.in/en/).
+[Software Freedom Law Center India](https://sflc.in/).
+Several organizations pursue similar work but within specific domains, like [ITforChange](https://itforchange.net/index.php/)
+promoting the adoption and use of FOSS in the Education sector. Informal communities have also pursued
+similar work, for example, the [Free Software User Groups](https://fsug.in/)/Linux User Groups across
+the country. The FOSS United Foundation aims to work with the existing communities as much as possible
+to achieve our collective goals.
+
+In the FOSS ecosystem, the FOSS United Foundation is among the lucky few organizations that can
+employ individuals full-time to achieve our stated objectives, who in turn work with a large number
+of volunteers from the community. This is a double-edged sword - full-time staff can build momentum
+towards our stated objectives, but the staff can also misinterpret, accidentally or intentionally,
+the stated objectives, potentially creating a rift between what the Foundation staff are working on
+and what the Community actually needs. In addition, in a country as diverse as ours, with a community
+that is driven by volunteers, one-size-fits-all solutions will not work. Foundation staff attempting
+to arbitrate decisions in communities across the country can lead to disagreements and discontent.
+
+The FOSS United Foundation has had a successful five years. And to move into the next stage of our
+growth, the Foundation and its founders strongly believe in the need for Community-led decision-making.
+
+## Community-elected Governing Board
+
+The FOSS United Community, with support from the Foundation, will elect representatives from the
+Community to a Governing Board. The Governing Board, building on their deep expertise in the
+Indian and Global FOSS ecosystems, will steer the activities at the Foundation, establish
+guidelines for the Community to follow, and broadly help us achieve our stated objectives.
+
+Please note that the Governing Board differs from the Board of Directors or a Governing Body,
+as you might see from some of the examples listed above. At the moment, the Governing Board
+does not have fiscal responsibility, i.e., they are not responsible for evaluating the budget
+of the Foundation, seeking clarifications regarding budget variations, etc. The Governing
+Board advises the Foundation in various capacities. We envision that within a few years,
+the Governing Board will gain financial duties, as the Foundation and the Governing Board
+figure out how to work together cohesively.
+
 The elected representatives of the FOSS United Governing Board (hereafter referred to as GB),
 shall be the primary body responsible for guiding and overseeing the activities of the FOSS United
 Community. The GB is elected to provide support to and strengthen the Community. It shall define
@@ -32,6 +73,7 @@ Primary activities of the GB shall be, but not limited to:
   legal help on any legal matters that arise; and
 * adopt and maintain policies or rules and procedures for the various operational policies of
   FOSS United
+* establish Working Groups (WGs), appoint members of the Community to the WGs, and oversee them
 
 ## Quorum rules
 
@@ -48,6 +90,10 @@ within the GB.
 In the event of a tied vote with respect to an action that cannot be resolved by the GB,
 employee representatives of FOSS United shall be asked to step in and help resolve the
 situation.
+
+While an attendance policy does not exist for GB meetings, the attendance for GB meetings
+will be recorded and shared publicly via the meeting notes. Summary information about
+GB member attendance might be published at periodic intervals, e.g., yearly or half-yearly.
 
 ## Governing Board Composition:
 
@@ -93,8 +139,40 @@ the project, the GB has the authority to enact temporary amendments. These emerg
 be subject to the standard review and approval process within 60 days to ensure they are properly
 vetted and ratified.
 
+Two planned reviews of the Charter will take place every year - once three months before an election,
+based on the experience of the sitting GB members, and once three months after an election, based on
+the experience of the new/incoming GB members.
+
 [Other sections to be added]
+
 ## Code of Conduct
+
+The GB members shall adhere to the [FOSS United Code of Conduct](https://fossunited.org/code-of-conduct).
+
+## Working Groups
+
+The GB will establish Working Groups (WGs) to empower Staff and Community volunteers to achieve
+the stated objectives of the Foundation. To support and promote the Indian Free and Open Source
+Software ecosystem is no small feat, and we need to enable groups of people to come together under
+a few common objectives.
+
+* WGs can be recommended by the members of the Community or by the GB members
+* The interested people need to put together a charter document, similar to the GB charter,
+  outling the stated objectives of the WG
+* GB members can work with the interested people to draft and sponsor the WG charter
+* Once ready, WG charter documents should be made public for comments before they can
+  be discussed and voted upon by the GB
+* If accepted, the GB can elect the proposers of the Charter as the initial members of the
+  WG, and empower them to bring in additional members into the WG as they deem fit. The
+  GB can also recommend people to the WG, based on their understanding of the charter and
+  their experience in the Indian FOSS ecosystem
+* WGs are expected to share updates with the Community, which will be periodically reviewed by
+  the GB
+* GB members will periodically evaluate the WG Charters, specifically the stated mission of
+  the WG and whether it is still fit-for-purpose. The GB can request the WG to refresh the
+  Charter document based on recent changes in the Indian FOSS ecosystem
+* GB, in consultation with the Community and the Foundation, can recommend the dissolution of
+  a WG, or replacement of existing WG members
 
 ## Dispute Resolution
 
@@ -159,3 +237,6 @@ to count the votes for their elections.
 
 Please find explainers about STV in [this video by CGP Grey](https://youtu.be/l8XOZJkozfI?si=vnPZsK5pW24e3tvX)
 and in this video by [the Washington Post](https://youtu.be/2crVSDqHGYY?si=UnaU2eqxAO3g16Sv).
+
+Please find public feedback after the 2025 election on
+[this forum post](https://forum.fossunited.org/t/feedback-on-the-election-process/5459).
