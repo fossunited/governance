@@ -149,6 +149,26 @@ the experience of the new/incoming GB members.
 
 The GB members shall adhere to the [FOSS United Code of Conduct](https://fossunited.org/code-of-conduct).
 
+In addition to the above Code of Conduct, the GB members are expected to conduct themselves as public
+representatives of the FOSS United Community and the Foundation.
+
+* GB members can, and should, passionately advocate for specific causes that are near and dear to
+  their heart, but they should be careful not to cross the line from passionate advocacy to overt
+  favoritism towards individuals, projects, companies, or communities
+* Passions run high at times in the FOSS ecosystem, but the GB members are expected to maintain their
+  cool in such instances and prioritize de-escalation. Accidentally, or intentionally, fanning the
+  fire reflects poorly on the GB, the Foundation, and the Community
+* As the de facto Code of Conduct Working Group, the GB members are not only expected to communicate
+  and enforce It during their interactions with the Community, but also to stay abreast of developments
+  in the broader FOSS ecosystem and recommend appropriate changes to our Code of Conduct
+
+### Violating the Code of Conduct
+
+* If a GB member is found to violate our Code of Conduct, the GB, in consultation with the
+  Foundation and the Community, can request the GB member to step down
+* If a GB member is found to be in gross and intentional violation of our Code of Conduct, the GB,
+  in consultation with the Foundation and the Community, can remove them from the GB
+
 ## Working Groups
 
 The GB will establish Working Groups (WGs) to empower Staff and Community volunteers to achieve
