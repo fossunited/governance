@@ -47,7 +47,11 @@ Community. The GB is elected to provide support to and strengthen the Community.
 and aim to ensure alignment with the goals for the FOSS United Community.
 
 This charter aims to outline all the responsibilities and guidelines for how the GB shall
-operate.
+operate. Charter documents created by not-for-profit organizations are usually full of legalese
+because they're legally binding documents. In this case, this Charter document isn't legally
+binding, but is instead meant to guide the GB and the community. We might evolve to a legally
+binding Charter document in the future. At the moment, this document is written to ensure that
+it is accessible to the FOSS United Community, and to the broader Indian FOSS ecosystem.
 
 ## Mission, Vision, and Values
 
@@ -143,8 +147,6 @@ Two planned reviews of the Charter will take place every year - once three month
 based on the experience of the sitting GB members, and once three months after an election, based on
 the experience of the new/incoming GB members.
 
-[Other sections to be added]
-
 ## Code of Conduct
 
 The GB members shall adhere to the [FOSS United Code of Conduct](https://fossunited.org/code-of-conduct).
@@ -194,8 +196,6 @@ a few common objectives.
 * GB, in consultation with the Community and the Foundation, can recommend the dissolution of
   a WG, or replacement of existing WG members
 
-## Dispute Resolution
-
 ## Elections
 
 * Elections will be held every year in the month of March
@@ -227,16 +227,6 @@ a few common objectives.
   Please see [Appendix](#how-are-votes-counted) to understand the method by which votes will be counted
 * The Election WG will solicit feedback about the election cycle for a period of one month after
   the election. After consolidating the feedback and providing it to the Community, the WG will disband
-
-## Intellectual Property*
-
-## Membership^
-
-## Contribution Guidelines**
-
-* When we start supporting projects
-^ When we start having a Membership program
-** When we want to govern projects
 
 ## Appendix
 
