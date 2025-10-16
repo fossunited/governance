@@ -72,6 +72,9 @@ Primary activities of the GB shall be, but not limited to:
 * vote and approve on all policies regarding operation of the foundation including organisation structure, roles etc.
 * set a fund raising target for the year
 * review staff performance quarterly and check alignment with stated goals
+* review the performance of the CEO and appointment of a new CEO if required
+* maintain a public policy "document" that maintains the position of FOSS United on all major policy initiatives
+* ensure a consent mechanism within the entire community before new public policy positions are taken by the foundation
 * vote on all decisions or matters coming before the GB; and
 * approve procedures for the nomination and election of any representative of the Community
   to the GB and any Officer or other positions created by the GB; and
