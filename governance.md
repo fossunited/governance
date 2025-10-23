@@ -188,6 +188,9 @@ a few common objectives.
   WG, and empower them to bring in additional members into the WG as they deem fit. The
   GB can also recommend people to the WG, based on their understanding of the charter and
   their experience in the Indian FOSS ecosystem
+* WGs may request funds from FOSS United for their activities and initiatives. Funds may also
+  be raised from external entities. External funding would need to come to FOSS United, and be
+  compliant with broader FOSS United policies.
 * WGs are expected to share updates with the Community, which will be periodically reviewed by
   the GB
 * GB members will periodically evaluate the WG Charters, specifically the stated mission of
