@@ -30,7 +30,7 @@ growth, the Foundation and its founders strongly believe in the need for Communi
 
 The FOSS United Community, with support from the Foundation, will elect representatives from the
 Community to a Governing Board. The Governing Board, which is an elected body representing the broad voting community of FOSS United, 
-building on their deep expertise in the Indian and Global FOSS ecosystems, steer the activities at the Foundation, establish
+building on their deep expertise in the Indian and Global FOSS ecosystems, will steer the activities at the Foundation, establish
 guidelines for the Community to follow, and broadly help us achieve our stated objectives.
 
 Please note that the Governing Board differs from the Board of Directors or a Governing Body,
