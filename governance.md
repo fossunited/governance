@@ -29,17 +29,12 @@ growth, the Foundation and its founders strongly believe in the need for Communi
 ## Community-elected Governing Board
 
 The FOSS United Community, with support from the Foundation, will elect representatives from the
-Community to a Governing Board. The Governing Board, building on their deep expertise in the
-Indian and Global FOSS ecosystems, will steer the activities at the Foundation, establish
+Community to a Governing Board. The Governing Board, which is an elected body representing the broad voting community of FOSS United, 
+building on their deep expertise in the Indian and Global FOSS ecosystems, will steer the activities at the Foundation, establish
 guidelines for the Community to follow, and broadly help us achieve our stated objectives.
 
 Please note that the Governing Board differs from the Board of Directors or a Governing Body,
-as you might see from some of the examples listed above. At the moment, the Governing Board
-does not have fiscal responsibility, i.e., they are not responsible for evaluating the budget
-of the Foundation, seeking clarifications regarding budget variations, etc. The Governing
-Board advises the Foundation in various capacities. We envision that within a few years,
-the Governing Board will gain financial duties, as the Foundation and the Governing Board
-figure out how to work together cohesively.
+as you might see from some of the examples listed above.
 
 The elected representatives of the FOSS United Governing Board (hereafter referred to as GB),
 shall be the primary body responsible for guiding and overseeing the activities of the FOSS United
@@ -70,6 +65,16 @@ The GB may invite guests to participate in consideration of specific topics (but
 may not participate in any voting matters).
 
 Primary activities of the GB shall be, but not limited to:
+* represent the broad FOSS community of India
+* ensure long term survival and growth of the FOSS United community
+* set long term goals for the FOSS United community
+* vote and approve the budget for the year
+* vote and approve on all policies regarding operation of the foundation including organisation structure, roles etc.
+* set a fund raising target for the year
+* review staff performance quarterly and check alignment with stated goals
+* review the performance of the CEO and appointment of a new CEO if required
+* maintain a public policy "document" that maintains the position of FOSS United on all major policy initiatives
+* ensure a consent mechanism within the entire community before new public policy positions are taken by the foundation
 * vote on all decisions or matters coming before the GB; and
 * approve procedures for the nomination and election of any representative of the Community
   to the GB and any Officer or other positions created by the GB; and
