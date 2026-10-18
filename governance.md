@@ -206,19 +206,3 @@ Please see Elections Working Group charter.
 
 Please see the evolution of the Governing Board exercise on the FOSS United Forum post -
 [Electing a FOSS United Governing board forum topic](https://forum.fossunited.org/t/electing-a-fossunited-governing-board/3569).
-
-### How are votes counted
-
-The FOSS United Community is expected to rank the nominees from 1 to 5 in their ballot.
-The [Single Transferrable Vote (STV)](https://opavote.com/methods/single-transferable-vote) method will then
-be used to count the votes to determine the makeup of the Governing Board. Specifically,
-the [Scottish STV](https://opavote.com/methods/single-transferable-vote#scottish-stv) or
-[Meek STV](https://opavote.com/methods/single-transferable-vote#meek-stv) methods will be used to count the votes.
-Please note that the [Open Street Map Foundation uses the Scottish STV method](https://osmfoundation.org/wiki/Annual_General_Meetings/2024/Voting_Information_and_Instructions)
-to count the votes for their elections.
-
-Please find explainers about STV in [this video by CGP Grey](https://youtu.be/l8XOZJkozfI?si=vnPZsK5pW24e3tvX)
-and in this video by [the Washington Post](https://youtu.be/2crVSDqHGYY?si=UnaU2eqxAO3g16Sv).
-
-Please find public feedback after the 2025 election on
-[this forum post](https://forum.fossunited.org/t/feedback-on-the-election-process/5459).
