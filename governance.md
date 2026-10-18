@@ -198,35 +198,7 @@ a few common objectives.
 
 ## Elections
 
-* Elections will be held every year in the month of March
-* An Elections Working Group (WG) will be constituted by the first week of December every year
-* The Elections WG will comprise one member of the GB, one member of the Foundation,
-  and one independent member from the FOSS United Community. Preferably, the tenure
-  of the GB member of the Elections WG ends with the upcoming election,
-  and they aren't contesting in the upcoming election. The independent member from the
-  Community could be one of the candidates who lost the previous election cycle and isn't
-  contesting in the upcoming election
-* The Elections WG will announce the schedule for the upcoming elections by the first week of
-  January every year
-* Along with the election schedule, the Elections WG will also determine the structure of the
-  nomination form, i.e., the personal/professional information that a nominee needs to provide,
-  and the questions that the nominee will need to fill in
-* The Elections WG will solicit nominations from FOSS United and the broader Indian FOSS Community.
-  The Election WG can reach out to individuals and request that they consider running for election.
-  The Election WG will reach out to the Indian FOSS community and the FOSS United Community by
-  working with the Foundation staff and Community volunteers, e.g., newsletter, social media posts, etc
-* The Election WG will delist incomplete nomination forms and announce the final list of
-  nominees to the Community
-* The Election WG will freeze the voter rolls when the final list of nominees is announced
-* A two-week+ voting period will be adopted, similar to the
-  [Open Street Map Foundation](https://osmfoundation.org/wiki/Annual_General_Meetings/2024/Voting_Information_and_Instructions#Voting_duration)
-  and the [Python Software Foundation](https://pyfound.blogspot.com/2024/07/the-2024-psf-board-election-is-open.html).
-  The voting period will open on a Saturday at 00:00 hours and it will end on a Sunday at 23:59 hours
-* Thanks to online voting, the Election WG will announce the results of the election within one day.
-  Ballots will be shared electronically in a public forum, without any personally identifiable information.
-  Please see [Appendix](#how-are-votes-counted) to understand the method by which votes will be counted
-* The Election WG will solicit feedback about the election cycle for a period of one month after
-  the election. After consolidating the feedback and providing it to the Community, the WG will disband
+Please see Elections Working Group charter.
 
 ## Appendix
 

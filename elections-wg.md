@@ -18,36 +18,85 @@ with the election timeline.
 
 The Election Working Group ensures fair elections for the FOSS United Governing Board.
 
+## Values
+
+The Election WG will be transparent and impartial. All decisions made by the WG
+as part of the election process will be communicated transparently to the GB and
+the community, e.g., via the Discourse forum. The WG will not be partial towards
+anyone potential or qualified candidate during the election, treating all of them
+impartially.
+
 ## Scope
 
 The Elections WG will
 
 * come up with the schedule for the annual election. They will publish the
   schedule at least 4 months ahead of the date of election for feedback from
-  the Staff, Governing Board, and the Community. The schedule will be
-  finalized at least 3 months ahead of the date of election.
+  the Staff, GB, and the Community. The schedule will be
+  finalized at least 3 months ahead of the date of election. The schedule will
+  outline how long the nomination form will stay open, how long the candidates
+  can canvass for the upcoming election, and how long the voting window is.
 * define the nomination form, including questions on the form. This will be
   published at the same time as the schedule for feedback
 * spread the message about the upcoming election. This includes coordinating
   with Staff members for help with social media outreach, working with volunteers
-  to put together visual assets if necessary, and so on.
+  to put together visual assets if necessary, and so on. Email outreach to voters,
+  as part of the outreach process, will happen at regular intervals to increase the
+  likelihood of them voting and to decrease the chances of last minute rush emails.
+* filter the submitted nominations, if necessary, and announce the final list of candidates
+  running for election. This includes addressing possible conflicts of interest, such as,
+  multiple employees from the same or related companies running for election.
+* address and redirect questions from candidates.
+* moderate one or more virtual public community calls to enable the community to engage with
+  the candidates.
 * coordinate with the IndiaFOSS Programme co-chairs to incorporate elections-related
   sessions into the festival schedule. This includes sessions introducing the
   candidates running for election, physical information about the elections
   during the festival, and so on.
 * choose the digital platform that will be used to submit and show nomination forms,
   and the digital platform that will be used for the election.
-* put together the voter list, and communicate (e.g. emails) with the eligible voters about the election 
-* run the election.
+* put together the voter list, and communicate (e.g. emails) with the eligible voters about the election.
+* ensure that all of the candidates are aware of and adhere to the FOSS United Code of Conduct
+  during the election process.
+* address code of conduct violations reported against candidates during the election process.
+* run the election, tabulate the results, and announce them.
+* share final ballot data, with instructions on how to independently verify the results of the election.
+* gather, digest, and share feedback publicly about the election process
+
+### Out-of-scope
+
+The following are not in scope for the Election WG
+
+- Increase the number of voters who participate in the GB election year-on-year. This
+  responsibility falls on the shoulders of the Staff, the GB, and the broader Community.
+- Increase the number of IndiaFOSS attendees who vote in the GB election year-on-year. This
+  responsibility falls on the shoulders of the Staff and the IndiaFOSS co-chairs.
+- Ensure that voters continue to vote in consecutive GB elections. The Staff and the GB
+  are responsible for this.
+- Engage with voters after the election cycle, to keep them informed about the functioning
+  of the GB. The Staff are responsible for this.
+- Spread awareness about the GB and the annual election cycle across the numerous events
+  and communities making up the FOSS United Community and the Indian FOSS ecosystem. The
+  Staff and the local Communities are responsible for this.
+- Ensure adequate diversity in the candidates running for GB election. Diversity includes
+  gender diversity, geographic diversity, and diversity in communities that the candidates
+  represent. This responsibility falls on the shoulders of the Staff, the GB, and the respective
+  communities.
 
 ## Membership
 
 The Election WG will consist of three members - one Staff member from the FOSS United
-Foundation, one Governing Board member, and one active member of the Indian
+Foundation, one GB member, and one active member of the Indian
 FOSS Community. The WG will be constituted at least 6 months ahead of the tentative
 election date (IndiaFOSS weekend), and it will be dissolved one month after the
 election is completed. No member of the Election WG will run in the upcoming
 election.
+
+## References
+
+- [Open Street Map Foundation](https://osmfoundation.org/wiki/Annual_General_Meetings/2024/Voting_Information_and_Instructions#Voting_duration) board elections
+- [Python Software Foundation](https://pyfound.blogspot.com/2024/07/the-2024-psf-board-election-is-open.html) board elections
+- [Python Steering Council](https://peps.python.org/pep-8107/) elections
 
 ## Appendix
 
