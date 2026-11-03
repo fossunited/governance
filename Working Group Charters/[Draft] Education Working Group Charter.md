@@ -2,9 +2,9 @@
 
 ## **1\. Preamble**
 
-FOSS United's education work aims to make students act as thoughtful citizens who help shape technology. It does not want them to be only the last step in a chain, implementing solutions that others have designed. This means students who understand how the digital systems around them work, who own and govern them, and how they affect people. It also means students who feel able to act on what they learn.
+FOSS United's education work aims to help students act as thoughtful citizens who help shape technology. It does not want them to be only the last step in a chain, implementing solutions that others have designed. This means students who understand how the digital systems around them work, who own and govern them, and how they affect people. It also means students who feel able to act on what they learn.
 
-The [National Education Policy 2020](https://www.mhrd.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf) describes the purpose of education in similar terms. It speaks of people with sound ethical values who contribute as engaged citizens to an equitable, inclusive and plural society, as the Constitution envisages. The digital commons gives students a practical way to build this habit. Contributing to a commons means working in public, crediting others, following community norms, and sharing responsibility for what is built. These are civic habits as well as technical ones.
+The [National Education Policy 2020](https://static.pib.gov.in/WriteReadData/userfiles/NEP_Final_English_0.pdf) describes the purpose of education in similar terms. It speaks of people with sound ethical values who contribute as engaged citizens to an equitable, inclusive and plural society, as the Constitution envisages. The digital commons gives students a practical way to build this habit. Contributing to a commons means working in public, crediting others, following community norms, and sharing responsibility for what is built. These are civic habits as well as technical ones.
 
 For institutions, FOSS and the digital commons can make learning more accessible, lower costs for institutions, and give students room to tinker and build.
 
@@ -12,7 +12,7 @@ Several groups in India already work in this space, but most of this work happen
 
 The Education Working Group (EDU-WG) gives colleges and universities one place to ask, learn and share. It brings together people with experience in FOSS, the digital commons and education, and institutions that want to take part.
 
-The WG does not just aim to enforce the adoption of open source software. Its work covers:
+The WG’s work is about more than just the adoption of open source software. Its work covers:
 
 * awareness and adoption of open software,  
 * open education policies,  
@@ -32,15 +32,15 @@ The EDU-WG has two functions.
 
 Over time, we imagine the EDU-WG working as a national educational Open Source Programme Office (OSPO). As more institutions join, the WG becomes a shared space where they learn from mentors and from each other.
 
-The EDU-WG does not have its own budget. It sends requests for funds to the Foundation. The Foundation approves and tracks all spending.
+The EDU-WG does not have its own budget. It sends requests for funds to the Foundation, through the learners program staff who is part of the WG. The Foundation approves and tracks all spending.
 
-The EDU-WG reports to the GB. The GB reviews the WG's work and charter periodically.
+The EDU-WG reports to the Governing Board (GB). The GB reviews the WG's work and charter periodically.
 
 This charter is not legally binding. It is written in plain language so that everyone in the community can read it.
 
 ## **3\. Scope**
 
-The EDU-WG works with colleges and universities in India. It starts with STEM institutions and departments but will expand to non-STEM institutions. At this point, non-STEM institutions and departments are included wherever possible.
+The EDU-WG works with colleges and universities in India. It starts with STEM institutions and departments, and will expand to non-STEM institutions.
 
 Schools are outside the current scope.
 
@@ -62,7 +62,7 @@ The EDU-WG has a voting core of mentors and one Foundation staff member. Institu
 
 **Mentors (voting)**
 
-* Number of seats: 5  
+* Number of seats initially approved by the Governing Board: 6 
   * The Governing Board will approve the five initial members who can then add more members through voting.  
 * Mentors are invited people with experience in open source and education, such as educators, open source developers, policy makers and other experts who work in the intersection.  
 * No more than one mentor from the same institution, company or organisation may hold a seat at the same time.
@@ -74,9 +74,10 @@ The EDU-WG has a voting core of mentors and one Foundation staff member. Institu
 
 **Institution members (non-voting)**
 
-* Institution members represent colleges and universities that want to adopt open source and receive mentorship from the group.  
+* Institution members represent colleges and universities that want to adopt open source and receive mentorship from the group. Any member of the EDU-WG can recommend addition of a new institution member which will then be voted on by the rest of the group.
+* Total number of institution members can be decided by the EDU-WG as per their bandwidth.
 * Each institution holds one seat.  
-* An institution may replace its representative when needed. The WG decides on each replacement.
+* An institution may replace its representative when needed. The WG decides on each replacement through voting.
 
 **Guests**
 
@@ -97,7 +98,7 @@ The people below are proposed as initial members, subject to their interest and 
 | Name | Role | Voting Rights |
 | ----- | ----- | ----- |
 | Siddharth Shivkumar | FOSS United Foundation | Voting |
-| Ruchika Badge | FOSS United Foundation | Non-voting (Combined vote for the staff) |
+| Ruchika Badge | FOSS United Foundation | Non-voting |
 
 **Institution members**
 
@@ -111,7 +112,7 @@ The EDU-WG meets once a month, unless the convenor calls an additional meeting.
 
 * **Quorum.** At least 50 per cent of voting members must be present for the WG to take decisions.  
 * **Meetings without quorum.** The WG may still meet, but cannot take decisions at that meeting.  
-* **Attendance.** Attendance is recorded in the public meeting notes.  
+* **Attendance.** Attendance is recorded in the public meeting notes posted on [FOSS United Blogs](https://fossunited.org/blog/organization).
 * **Consensus.** Decisions should come from consensus, defined as the lack of sustained objection.  
 * **Voting.** If a vote is needed, each voting member has one vote.  
 * **Ties.** If a vote is tied, the decision is escalated to the GB.  
@@ -126,7 +127,7 @@ The EDU-WG meets once a month, unless the convenor calls an additional meeting.
 
 **Active participation**
 
-Members must stay active to keep their seat. A member is inactive if they miss three consecutive meetings and make no async contribution in that time. The WG may then ask a mentor to step down, or ask an institution to name a new representative.
+Members must stay active to keep their seat. A member is inactive if they miss three consecutive meetings and make no async contribution on the section specific to EDU-WG on the FOSS United Forum, in that time. The WG may then ask a mentor to step down, or ask an institution to name a new representative.
 
 ## **9\. First-Year Goals**
 
@@ -159,7 +160,7 @@ All participants follow the [FOSS United Code of Conduct](https://fossunited.org
 
 **Violations**
 
-* If a member violates the Code of Conduct, the GB, in consultation with the Foundation and the Community, can request the member to step down.  
+* If a member violates the Code of Conduct, the Foundation can request the member to step down.  
 * If a member is in gross and intentional violation of the Code of Conduct, the GB, in consultation with the Foundation, can remove them from the WG.
 
 ## **13\. Amendments**
